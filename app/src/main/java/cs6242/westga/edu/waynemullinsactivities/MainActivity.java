@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        setTitle("Display Activities Main");
     }
 
     @Override
