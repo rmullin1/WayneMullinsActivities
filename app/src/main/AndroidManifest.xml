@@ -27,6 +27,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="cs6242.westga.edu.waynemullinsactivities.MainActivity" />
         </activity>
+        <activity android:name=".DisplaySecondMessage"></activity>
     </application>
 
 </manifest>
